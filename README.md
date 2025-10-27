@@ -1,13 +1,13 @@
 <div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXB4djY5YXR2dDJlM2x5cDdwbTY1dDBsZWI4c29rdjRiMjNjOTgydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E136ihXhzuG2OnxKen/giphy.gif"  />
+  <a href="https://www.linkedin.com/in/kauan-ara%C3%BAjo-a85509275/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kauan-ara%C3%BAjo-a85509275/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
+  <img height="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBwNnRpaGl6dmZlZWF3ZzV2NTU4YnM3N3ZmYTJtdTBjNHlzMnZxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif"  />
 </div>
 
 ###
@@ -43,5 +43,9 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=KauanAraujo019&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+
+<h3 align="left">me chamo Kauan Araujo, desenvolvedor Java Backend em constante aprendizado.  <br>Atualmente estudando Spring Boot, JPA, e APIs REST.  <br><br>Tenho verdadeira vontade de ajudar outras pessoas.<br>Gosto de compartilhar conhecimento e ensinar o que aprendo.<br>No meu antigo trabalho, cuidei sozinho de boa parte da infraestrutura do  comércio por vontade própria.<br><br>Tecnologias que estudo atualmente:<br>- ☕ Java  <br>- 🌱 Spring Boot  <br>- 🗄️Banco de dados<br><br>🧰 Ferramentas e conceitos:<br>- Git & GitHub  <br>- Maven  <br>- Postman  <br>- H2 / MySQL  <br>- IntelliJ IDEA</h3>
 
 ###
