@@ -12,10 +12,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=KauanAraujo019.KauanAraujo019&"  />
-</div>
-
 ###
 
 <h2 align="center">Seja bem vindo👋</h2>
