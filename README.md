@@ -1,10 +1,4 @@
 <div align="center">
-  <img height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODA5cnJtanRjYmRjaGlmZ2V4ZTFjZzcxNW03cXR3NGV4aTBmMWM0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/kauan-ara%C3%BAjo-a85509275/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -12,9 +6,7 @@
 
 ###
 
-###
-
-<h2 align="center">Seja bem vindo👋</h2>
+<h1 align="center">Seja bem vindo👋</h1>
 
 ###
 
@@ -37,11 +29,12 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=KauanAraujo019&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=KauanAraujo019&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KauanAraujo019&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h3 align="left">me chamo Kauan Araujo, desenvolvedor Java Backend em constante aprendizado.  <br>Atualmente estudando Spring Boot, JPA, e APIs REST.  <br><br>Tenho verdadeira vontade de ajudar outras pessoas.<br>Gosto de compartilhar conhecimento e ensinar o que aprendo.<br>No meu antigo trabalho, Assumi sozinho a administração e manutenção do sistema juntamente de equipamentos de informática do comércio por vontade própria.<br><br>Tecnologias que estudo atualmente:<br>- ☕ Java  <br>- 🌱 Spring Boot  <br>- 🗄️Banco de dados<br><br>🧰 Ferramentas e conceitos:<br>- Git & GitHub  <br>- Maven  <br>- Postman  <br>- H2 / MySQL  <br>- IntelliJ IDEA</h3>
+<h3 align="left">me chamo Kauan Araujo, desenvolvedor Java Backend em constante aprendizado.  <br>Atualmente estudando Spring Boot, JPA, e APIs REST.  <br><br>Tenho verdadeira vontade de ajudar outras pessoas.<br>Gosto de compartilhar conhecimento e ensinar o que aprendo.<br>No meu antigo trabalho, cuidei sozinho de boa parte da infraestrutura do  comércio por vontade própria.<br><br>Tecnologias que estudo atualmente:<br>- ☕ Java  <br>- 🌱 Spring Boot  <br>- 🗄️Banco de dados<br><br>🧰 Ferramentas e conceitos:<br>- Git & GitHub  <br>- Maven  <br>- Postman  <br>- H2 / MySQL  <br>- IntelliJ IDEA</h3>
 
 ###
