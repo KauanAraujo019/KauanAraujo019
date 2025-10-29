@@ -27,6 +27,6 @@
 
 ###
 
-<h3 align="left">me chamo Kauan Araujo, desenvolvedor Java Backend em constante aprendizado.  <br>Atualmente estudando Spring Boot, JPA, e APIs REST.  <br><br>Tenho verdadeira vontade de ajudar outras pessoas.<br>Gosto de compartilhar conhecimento e ensinar o que aprendo.<br>No meu antigo trabalho, cuidei sozinho de boa parte da infraestrutura do  comércio por vontade própria.<br><br>Tecnologias que estudo atualmente:<br>- ☕ Java  <br>- 🌱 Spring Boot  <br>- 🗄️Banco de dados<br><br>🧰 Ferramentas e conceitos:<br>- Git & GitHub  <br>- Maven  <br>- Postman  <br>- H2 / MySQL  <br>- IntelliJ IDEA</h3>
+<h3 align="left">me chamo Kauan Araujo, desenvolvedor Java Backend em constante aprendizado.  <br>Atualmente estudando Spring Boot, JPA, e APIs REST.  <br><br>Tenho verdadeira vontade de ajudar outras pessoas.<br>Gosto de compartilhar conhecimento e ensinar o que aprendo.<br>No meu antigo trabalho, cuidei sozinho de boa parte da infraestrutura do  comércio por vontade própria.<br><br>Tecnologias que estudo atualmente:<br>- ☕ Java  <br>- 🌱 Spring Boot  <br>- 🗄️Banco de dados<br><br>🧰 Ferramentas e conceitos:<br>- Git & GitHub  <br>- Maven  <br>- Postman  <br>- H2 <br>- MySQL <br>- IntelliJ IDEA</h3>
 
 ###
